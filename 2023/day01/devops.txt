@@ -6,3 +6,10 @@ formal defination   :   "DevOps is the union of people, process, and products to
 
 The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline. How long does it take to deploy a change of one line of code or configuration.
 
+
+DevOps is a collaboration between Development and IT Operations to make software production and deployment in an automated & repeatable way.
+DevOps can be defined as an alignment of development and IT operations with better communication and collaboration.
+Automation is the use of technology, tools, and processes to perform tasks with minimal human intervention.
+Scaling is the ability of a system, application, or organization to handle increased workload or demand efficiently without sacrificing performance, reliability, or user experience.
+Infrastructure is the underlying foundation of hardware, software, networks, and other components necessary to support the operations of an organization, system, or application.
+DevOps is important because it helps organizations deliver high-quality software faster, more reliably, and with greater efficiency.
